@@ -1,6 +1,6 @@
-# employeemanager
+# employee-manager
 
-> simple employee
+> A simple employee managing website in vue.js and firebase
 
 ## Build Setup
 
